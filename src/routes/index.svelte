@@ -1,2 +1,16 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<main>
+	<h1>PxL CodeMasters</h1>
+	<img src="https://github.com/Pxl-CodeMasters.png" alt="pxl codemasters icon" />
+</main>
+
+<style>
+	h1 {
+		color: #fff;
+		text-align: center;
+	}
+	img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+</style>
